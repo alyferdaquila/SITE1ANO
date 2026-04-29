@@ -1,0 +1,30 @@
+body{
+background-color: limegreen;
+text-align: center;
+}
+
+p{
+text-align: center;
+}
+
+h3{
+color: darkblue;
+}
+
+h2{
+    color: gold;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+li{
+    transition: 0.3s;
+}
+
+li:hover{
+color: aqua;
+font-size: 30px;
+}
